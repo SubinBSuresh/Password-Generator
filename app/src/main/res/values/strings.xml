@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="password_generator">Password Generator</string>
+    <string name="password_length">Password Length</string>
+    <string name="include_symbols">Include Symbols</string>
+    <string name="generate">Generate</string>
+    <string name="reset">Reset</string>
+</resources>
